@@ -6,4 +6,5 @@ If you face no results being shown up, check console. If you get "status 403", i
 
 This project did not require any sort of Backend.
 
+First install the dependencies by running "npm install" in the root directory.
 To start the server, run "npm start" in the root directory.
