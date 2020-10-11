@@ -1,6 +1,7 @@
 import React from "react";
 
 const User = ({ user }) => {
+  
   const { login, avatar_url } = user;
 
   return (
